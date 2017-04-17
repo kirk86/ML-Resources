@@ -1,8 +1,7 @@
 # ML-Resources
-Machine Learning Resources
 
 
-<span class="c4">ML Resources and Courses</span>
+<span class="c4">Machine Learning Resources and Courses</span>
 
 <span class="c4"></span>
 
